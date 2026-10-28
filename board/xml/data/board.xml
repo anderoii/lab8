@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+  <ad>
+    <id>a1b2c3d4e5f60718</id>
+    <title>Продам велосипед</title>
+    <text>Гірський велосипед, стан хороший, використовувався два сезони. Самовивіз.</text>
+    <author>Олена</author>
+    <price>4500</price>
+    <created>2026-10-20 10:15</created>
+  </ad>
+  <ad>
+    <id>b2c3d4e5f6071829</id>
+    <title>Шукаю репетитора з PHP</title>
+    <text>Потрібен репетитор для підготовки до лабораторних, 2 рази на тиждень, онлайн.</text>
+    <author>Тарас</author>
+    <price>300</price>
+    <created>2026-10-22 18:40</created>
+  </ad>
+  <ad>
+    <id>c3d4e5f607182930</id>
+    <title>Клуб &lt;Код&gt; &amp; друзі</title>
+    <text>Збираємо людей на зустріч програмістів. Вхід вільний, ціна 0.</text>
+    <author>Марія</author>
+    <price>0</price>
+    <created>2026-10-25 09:00</created>
+  </ad>
+</board>
